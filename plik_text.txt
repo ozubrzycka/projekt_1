@@ -1,1 +1,3 @@
 ugsaycgashdcbgfh
+print('Hello world')
+dzień dobry
