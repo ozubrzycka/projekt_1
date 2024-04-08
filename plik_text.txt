@@ -2,3 +2,7 @@ ugsaycgashdcbgfh
 print('Hello world')
 dzień dobry
 
+informatyka
+
+
+123456789
