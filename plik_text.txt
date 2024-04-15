@@ -6,3 +6,5 @@ informatyka
 
 
 123456789
+\54678
+\zmiana1
